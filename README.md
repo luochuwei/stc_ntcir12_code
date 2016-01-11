@@ -1,0 +1,1 @@
+# my_stc_ntcir12_code
