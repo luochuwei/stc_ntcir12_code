@@ -9,3 +9,7 @@ final_score = a * s1 + b * s2 + c * s3
 use train set and svm_rank to train parameters a, b and c
 
 and finally sorting final score and choose top 10 as my response.
+
+http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings12/NTCIR/toc_ntcir.html
+
+http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings12/pdf/ntcir/STC/16-NTCIR12-STC-LuoC.pdf
