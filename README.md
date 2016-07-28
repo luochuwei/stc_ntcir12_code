@@ -14,5 +14,5 @@ http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings12/NTCIR/toc_ntcir.htm
 
 http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings12/pdf/ntcir/STC/16-NTCIR12-STC-LuoC.pdf
 
-
+POSTER:
 ![image](https://github.com/luochuwei/stc_ntcir12_code/raw/master/data/POSTER-2.jpg)
