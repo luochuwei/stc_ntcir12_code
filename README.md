@@ -13,3 +13,6 @@ and finally sorting final score and choose top 10 as my response.
 http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings12/NTCIR/toc_ntcir.html
 
 http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings12/pdf/ntcir/STC/16-NTCIR12-STC-LuoC.pdf
+
+
+![image](https://github.com/luochuwei/stc_ntcir12_code/raw/master/data/POSTER.png)
