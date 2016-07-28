@@ -1,4 +1,4 @@
-# my stc ntcir12 task code
+# STC(Short-text-conversation) ntcir12 task code
 
 s1 = similarity (test_post, database_post)
 s2 = similarity (database_post, database_response)
